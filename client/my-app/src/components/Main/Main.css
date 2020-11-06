@@ -1,0 +1,13 @@
+.chevron-down {
+    position:absolute;
+    top:99vh;
+    transform:translateY(-100%);
+    width:95%;
+}
+
+
+.messages {
+    overflow: auto;
+    flex: auto;
+    height: 500px;
+  }
